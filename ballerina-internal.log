@@ -1,0 +1,3 @@
+[2018-07-22 19:56:18,336] ERROR {org.ballerinalang.net.http.BallerinaHTTPConnectorListener} - Error in HTTP server connector: Idle timeout triggered before initiating inbound request  
+[2018-07-22 20:25:21,255] ERROR {org.ballerinalang.net.http.HttpUtil} - call failed  
+[2018-07-22 20:26:26,757] ERROR {org.ballerinalang.net.http.HttpUtil} - call failed  
